@@ -131,9 +131,15 @@
 
 ---
 
-### 📊 Contribution Graph
+### 🐍 Contribution Snake
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krish-Patidar&theme=tokyo-night&hide_border=true)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Patidar/Krish-Patidar/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Patidar/Krish-Patidar/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Krish-Patidar/Krish-Patidar/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 
 ---
 
