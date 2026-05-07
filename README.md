@@ -134,7 +134,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nitinsahu147/Nitinsahu147/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Krish-Patidar/Krish-Patidar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 > ⚠️ **To enable the snake animation**, add this GitHub Action to your profile repo:
