@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krish%20Patidar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Spring%20Boot&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krish%20Patidar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🏆 Achievements: **GDGoC PIEMR Lead | Hackathon Winner | Department Topper in CSE**
 - ⚡ Fun fact: *Turned hackathon ideas into real-world deployed applications 🚀*
 - 🌍 Based in: **India**
-- 📫 Reach me at: **krishpatidar0108@gmail.com**
+- 📫 Reach me at: **https://krishpatidar.onrender.com**
 
 ---
 
