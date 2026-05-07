@@ -79,19 +79,15 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Patidar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Patidar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-Patidar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Patidar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krish-Patidar&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Krish-Patidar&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 ---
 
