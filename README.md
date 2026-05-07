@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Working on: **Full Stack Web Development projects**
-- 🤝 Collaborate on: **Open-source & beginner-friendly apps**
-- 💡 Help with: **Backend structure & coding best practices**
-- 📚 Learning: **Java Full Stack (Spring Boot, React, MySQL)**
-- ❓ Ask me about: **HTML, CSS & Java basics**
-- ⚡ Fun fact: *Started from scratch, now building real-world apps 🚀*
+- 🔭 Working on: **Full Stack & AI-powered Web Applications**
+- 🤝 Collaborate on: **Hackathons, Open Source & Innovative Tech Projects**
+- 💡 Help with: **Java Backend Development, MERN Stack & Project Architecture**
+- ❓ Ask me about: **Java, Spring Boot, React, Node.js, MongoDB, MySQL & REST APIs**
+- 🏆 Achievements: **GDGoC PIEMR Lead | Hackathon Winner | Department Topper in CSE**
+- ⚡ Fun fact: *Turned hackathon ideas into real-world deployed applications 🚀*
 - 🌍 Based in: **India**
 - 📫 Reach me at: **krishpatidar0108@gmail.com**
 
@@ -26,9 +26,8 @@
 <p align="left">
   <a href="https://instagram.com/krish_patidar01"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/krish-patidar01"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/krish_patidar01"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:krishpatidar0108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Krish-Patidar"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
