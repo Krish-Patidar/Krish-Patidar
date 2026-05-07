@@ -131,10 +131,10 @@
 ### 📌 Pinned / Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🏦 **[Project 1]** | Brief description | React, Spring Boot, MySQL |
-| 🛒 **[Project 2]** | Brief description | Node.js, MongoDB |
-| 📱 **[Project 3]** | Brief description | Flutter, Firebase |
+| :--- | :--- | :--- |
+| 🏦 **[NagarSeva]** | AI-powered grievance management platform with complaint classification, fraud detection, and multi-level governance dashboards for citizens, departments, workers, and CM Office administration. | React.js, Tailwind CSS, Node.js, Express.js, MongoDB, FastAPI, Python, JWT, Nodemailer, TF-IDF |
+| 🏛️ **[TechnoClub]** | Centralized club management system for technical communities with event management, automated credit allocation, analytics, and resource management features. | React.js, Java, Spring Boot, Hibernate, MySQL, REST APIs, Apache Tomcat |
+| 👗 **[VogueAI]** | AI-powered fashion search and e-commerce platform featuring visual search, digital wardrobe, smart product comparison, and personalized recommendations. | React.js, Java (J2EE), Python, TensorFlow, OpenCV, Flask API, MySQL |
 
 ---
 
